@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sandeep Singh
+# Hi there 👋, I am Sandeep Singh
 
 <!--
 **sandeepsinghh143/sandeepsinghh143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
