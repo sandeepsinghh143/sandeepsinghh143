@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning FrontEnd Web Development
 
-# Languages Known
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react)](https://skillicons.dev)
+# Languages,Tools and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,git,github,jquery,postman,redux,vscode)](https://skillicons.dev)
