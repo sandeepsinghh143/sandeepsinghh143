@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning FrontEnd Web Development
+- 🌱 Full Stack Web Developer
 
 # Languages,Tools and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,git,github,jquery,postman,redux,vscode)](https://github.com/sandeepsinghh143)
