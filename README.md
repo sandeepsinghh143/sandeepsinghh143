@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 Full Stack Web Developer
 
 # Languages,Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,git,github,jquery,postman,redux,vscode)](https://github.com/sandeepsinghh143)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,git,github,jquery,postman,redux,vscode,tailwind)](https://github.com/sandeepsinghh143)
