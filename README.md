@@ -1,4 +1,5 @@
-# Hi there 👋, I am Sandeep Singh
+# Hi there 👋![Wave](https://media.giphy.com/media/xT9Igrnbf5cIQ1iJWM/giphy.gif)
+, I am Sandeep Singh
 
 <!--
 **sandeepsinghh143/sandeepsinghh143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
